@@ -13,19 +13,19 @@ We'll try to make all our projects have no bugs, but if you find it, you can rep
 ## 🔧 Fixing Bug
 We will be very grateful if you want to help us to fix the project bugs, and you can follow these steps if you wish to fix the bugs :
 1. Find your bug in the project [Issue list](project-issue-URL). 
-2. If you can't find the issue, you can follow the [Report Bug](#report-bug) steps above.
+2. If you can't find the issue, you can follow the report bug steps above.
 3. After the issue exists, you can follow the project [Pull request](Other/pull_request_guidelines.md) guidelines to fix the bug.
 
 ## 💡 Find New Feature Idea
 We're open to any new feature idea to improve this project, and you can follow these steps to share your brilliant idea :
-1. Look at the [Project scope](README.md#project-scope) and think if your idea is not out of this project scope.
+1. Look at the [Project scope](README.md/#project-scope) and think if your idea is not out of this project scope.
 2. When you think your idea isn't outside of the project scope, then you can go to this project discussion [Forum](project-decision-URL) to discuss your new idea with our community.
 3. When your idea is accepted, now you can create an issue for it. You can use our improvement issue template [Here](ISSUE_TEMPLATE/feature_issue_template.md).
 
 ## 🎉 Implement New Feature
 We're glad if you want to spare your time to implement a new feature to this project, you can follow these steps to implement the new feature :
 1. Check if the feature you want to implement exists in the project [Issue list](feature-issue-URL).
-2. If the issue does not exist, you can follow the [Find New Feature Idea](#find-new-feature-idea) steps above.
+2. If the issue does not exist, you can follow the find new feature idea steps above.
 3. After the issue exists, you can follow the project [Pull request](Other/pull_request_guidelines.md) guidelines to implement your new feature.
 
 ## 🚀 Improve Code
