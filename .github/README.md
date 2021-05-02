@@ -8,9 +8,8 @@
 <p align="center">{ Project Bedge }</p>
 
 <p align="center">
-  [Getting Started](#getting-started) •
-  <a href="#project-scope">Project Scope</a> •
-  <a href="#Contribute">Contribute</a> •
+  <a href="#project%20scope">Project Scope</a> •
+  <a href="#contribute">Contribute</a> •
   <a href="#discuss">Discuss</a> •
   <a href="#support">Support</a> •
   <a href="#license">License</a>
