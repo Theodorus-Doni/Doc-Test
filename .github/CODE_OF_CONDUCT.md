@@ -1,0 +1,2 @@
+# Code Of Conduct
+All repositories included in the ***Last Night Codes*** organization will use the same code of conduct. You can see our organization code of conduct in [Here](https://github.com/lncodes/docs/blob/master/.github/CODE_OF_CONDUCT.md).
