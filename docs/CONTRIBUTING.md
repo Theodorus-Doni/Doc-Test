@@ -36,7 +36,7 @@ We're pleased if you want to improve these project codes. To do that, you can fo
 
 ## 🛸 Other
 If you want to contribute another else like updating docs or adding test, you can follow these steps :
-1. Discuss your request to this project discussion [Forum](project-discuss-URL).
+1. Discuss your request to this project discussion [Forum](../discussions).
 2. Create a new issue about your contribution and consider using our general issue template [Here](ISSUE_TEMPLATE/general_issue_template.md)
 3. After the issue exists, you can follow the project [Pull request](Other/pull_request_guidelines.md) guidelines.
 
