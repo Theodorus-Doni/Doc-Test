@@ -12,7 +12,7 @@ We'll try to make all our projects have no bugs, but if you find it, you can rep
 
 ## 🔧 Fixing Bug
 We will be very grateful if you want to help us to fix the project bugs, and you can follow these steps if you wish to fix the bugs :
-1. Find your bug in the project [Issue list](project-issue-URL). 
+1. Find your bug in the project [Issue list](../issues). 
 2. If you can't find the issue, you can follow the report bug steps above.
 3. After the issue exists, you can follow the project [Pull request](Other/pull_request_guidelines.md) guidelines to fix the bug.
 
