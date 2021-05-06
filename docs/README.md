@@ -4,56 +4,67 @@
   </a>
 </p>
 
-<h3 align="center"><b>{ Project Name }</b></h3>
-<p align="center">{ Project Bedge }</p>
+<h3 align="center"><b>VLECIS</b></h3>
+<p align="center">
+  <a href="https://github.com/lncodes/vlecis/actions/workflows/build.yml">
+    <img src="https://github.com/lncodes/vlecis/actions/workflows/build.yml/badge.svg">
+  </a> 
+  <a href="https://github.com/lncodes/vlecis/actions/workflows/test.yml">
+    <img src="https://github.com/lncodes/vlecis/actions/workflows/test.yml/badge.svg">
+  </a>
+  <a href="https://sonarcloud.io/dashboard?id=lncodes_vlecis">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=lncodes_vlecis&metric=alert_status">
+  </a>
+</p>
 
 <p align="center">
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#project-scope">Project Scope</a> •
-  <a href="#Contribute">Contribute</a> •
+  <a href="#introduction">Introduction</a> •
+  <a href="#setup">Setup</a> •
+  <a href="#contribute">Contribute</a> •
   <a href="#discuss">Discuss</a> •
   <a href="#support">Support</a> •
   <a href="#license">License</a>
 </p>
 
 ---
+<h2 id="introduction">✨ Introduction</h2>
 
-<h2 id="getting-started"> 🏁 Getting Started </h2>
+{ *Description of the project* }, for more information about this project, you can refer to [Documentation](https://lncodes.com/studio/package/csharp-export-import-csv/).
 
-{ *Description of the project* }, to see documentation of this project you can visit our blog post [Here](<project-blog-URL>).
+<h3 id="scope">🎯 Scope</h3>
+The main objective of this project is { *Objective of the project* }
 
-### 🔨 Build With
-|                 |   Name        | Version       |
-|:---------------:|:-------------:|:-------------:|
-| { *Framework* } | { *Laravel* } |   { *8.0* }   |
-### ✅ Prerequisites
-- { *List prerequisites before setup the project* }
-### 🚀 Project Setup 
-{ *Steps to setup the project until can be run* }
+<h2 id="setup">🧰 Setup </h2>
+
+### 🔧 Requirements
+- { *List requirements before setup the project* }
+- etc
+### ⚙️ Installation 
+Follow these steps to install **VLECIS**
 1. Clone or download this project.
 ``` bash 
-git clone <project-repo-URL>
+git clone {project-repo-URL}
 ```
 2. etc
-
-<h2 id="project-scope">🎯 Project Scope</h2>
-
-This project will use to { *Objective of the project* }
+### 💻 Usage
+Follow these steps to use **VLECIS** package.
+1. { *Steps to use this project* }
+2. etc
 
 <h2 id="contribute">💖 Contribute</h2>
 
-Want to contribute to this project? Please read our project contribution [Guidelines](CONTRIBUTING.md).
+Want to contribute to this project? Please read our project [Contribution Guidelines](CONTRIBUTING.md).
 
 <h2 id="discuss">💬 Discuss</h2>
 
-If you have any questions about this project, you can go to project discussion [Forum](<project-discussion-URL>) or directly comment to this project [Blog](<project-blog-URL>) docs.
+If you have any questions about this project, you can go to [Discussion Forum](project-discussion-URL) or directly comment on [Documentation](https://lncodes.com/studio/package/csharp-export-import-csv/) page.
 
 <h2 id="support">💌 Support</h2>
 
-Support us to make another helpful content.
+Please support us to make other helpful content.
 
 <a href="https://www.buymeacoffee.com/lncodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="64"></a>
 
-<h2 id="license">📄 License</h2>
+<h2 id="license">	📋 License</h2>
 
-This project is open-sourced software licensed under [MIT](<project-license-URL>) license.
+This project is open-sourced software licensed under [MIT](https://github.com/lncodes/vlecis/blob/master/LICENSE) license.
